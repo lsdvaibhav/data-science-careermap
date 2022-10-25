@@ -7,3 +7,11 @@ Data scientists and data analysts both work with data, but each role uses a slig
 | Programming        | Basic fluency in R, Python, SQL            | Advanced object-oriented programming      |
 | Software and tools | SAS, Excel, business intelligence software | Hadoop, MySQL, TensorFlow, Spark          |
 | Other skills       | Analytical thinking, data visualization    | Machine learning, data modeling           |
+
+
+what is data science
+what are the careers can be pursued in data science
+why data science careers are booming and creating a hype
+what are the different skill set in careers of data science
+what are the basic skills required for all common person.
+What are the basic skills required for all data science candidates.
